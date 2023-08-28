@@ -40,7 +40,7 @@ I am Zhaopeng Qiu (邱昭鹏), a Senior Researcher in Career Science Lab of BOSS
 - ``AAAI 2021`` [U-BERT: Pre-training User Representations for Improved Recommendation](https://ojs.aaai.org/index.php/AAAI/article/download/16557/16364), **Zhaopeng Qiu**, Xian Wu, <span class="underlined">Jingyue Gao</span>, Wei Fan
 - ``COLING 2020`` [Automatic Distractor Generation for Multiple Choice Questions in Standard Tests](https://www.aclweb.org/anthology/2020.coling-main.189.pdf), **Zhaopeng Qiu**, Xian Wu, Wei Fan
 - ``CIKM 2019`` [Question Difficulty Prediction for Multiple Choice Problems in Medical Exams](https://dl.acm.org/doi/pdf/10.1145/3357384.3358013), **Zhaopeng Qiu**, Xian Wu, Wei Fan
-- ``TMC 2018`` [HyTasker: Hybrid Task Allocation in Mobile Crowd Sensing](/), Jiangtao Wang, Feng Wang, Yasha Wang, Leye Wang, **Zhaopeng Qiu**, *Daqing Zhang, Bin Guo, Q. Lv
+- ``TMC 2018`` [HyTasker: Hybrid Task Allocation in Mobile Crowd Sensing](/), Jiangtao Wang, Feng Wang, Yasha Wang, Leye Wang, **Zhaopeng Qiu**, Daqing Zhang, Bin Guo, Q. Lv
 
 ## Pre-Prints
 - [Exploring Large Language Model for Graph Data Understanding in Online Job Recommendations](https://arxiv.org/pdf/2307.05722), <span class="underlined">Likang Wu</span>, **Zhaopeng Qiu**, <span class="underlined">Zhi Zheng</span>, Hengshu Zhu, Enhong Chen
