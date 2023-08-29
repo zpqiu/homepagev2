@@ -23,9 +23,12 @@ I am Zhaopeng Qiu (邱昭鹏), a Senior Researcher in Career Science Lab of BOSS
 
 
 # 🔥 News
-- *2023.08*: &nbsp;🎉 One paper is accepted by CIKM 2023 
+- *2023.08*: &nbsp;🎉 One paper is accepted by CIKM 2023.
+- *2023.06*: Our [LLM4Rec survey]((https://arxiv.org/abs/2305.19860)) has been released. It is the first comprehensive and up-to-date review specifically dedicated to generative LLMs for recommender systems.
 
 # 📝 Publications 
+
+> *\* → Equal contribution; <span class="underlined">The intern under my supervision</span>*
 
 - ``CIKM 2023`` [REST: Drug-Drug Interaction Prediction via Reinforced Student-Teacher Curriculum Learning](/), <span class="underlined">Xinhang Li</span>, **Zhaopeng Qiu**, Xiangyu Zhao, Yong Zhang, Chunxiao Xing, Xian Wu
 - ``SIGIR 2023`` [Distributionally Robust Sequential Recommnedation](/), Rui Zhou, Xian Wu, **Zhaopeng Qiu**, Yefeng Zheng and Xu Chen
@@ -60,5 +63,5 @@ I am Zhaopeng Qiu (邱昭鹏), a Senior Researcher in Career Science Lab of BOSS
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Work Experience
-- *2023.04 - Now*, BOSS Zhipin, Senior Researcher @ Career Science Lab.
-- *2018.07 - 2023.04*, Tencent, Senior Researcher @ Jarvis Lab.
+- *2023.04 - Now*, **BOSS Zhipin**, Senior Researcher @ Career Science Lab.
+- *2018.07 - 2023.04*, **Tencent**, Senior Researcher @ [Jarvis Lab](https://jarvislab.tencent.com/).
