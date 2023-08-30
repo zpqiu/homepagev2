@@ -63,5 +63,5 @@ I am Zhaopeng Qiu (邱昭鹏), a Senior Researcher in Career Science Lab of BOSS
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Work Experience
-- *2023.04 - Now*, **BOSS Zhipin**, Senior Researcher @ Career Science Lab.
+- *2023.04 - 2023.08*, **BOSS Zhipin**, Senior Researcher @ Career Science Lab.
 - *2018.07 - 2023.04*, **Tencent**, Senior Researcher @ [Jarvis Lab](https://jarvislab.tencent.com/).
