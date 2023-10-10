@@ -17,12 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Zhaopeng Qiu (邱昭鹏), a Senior Researcher in Career Science Lab of BOSS Zhipin. Before joining CSL, I worked as a Senior Researcher at Jarvis Lab of Tencent. I obtained Master in Computer Software and Theory from Peking University in 2018, under supervision of Prof. Yasha Wang. Before that, I obtained Bachelor in Software Engineering from Beihang University (BUAA) in 2014. My research works are focused on recommendation, NLP, and medical data mining.
+I am Zhaopeng Qiu (邱昭鹏), a Senior Deep Learning Solutions Architect in NVIDIA. Before joining NVIDIA, I worked as a Senior Researcher at Career Science Lab of BOSS Zhipin and Jarvis Lab of Tencent. I obtained Master in Computer Software and Theory from Peking University in 2018, under supervision of Prof. Yasha Wang. Before that, I obtained Bachelor in Software Engineering from Beihang University (BUAA) in 2014. My research works are focused on recommendation, NLP, and medical data mining.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
+- *2023.09*: Join NVIDIA.
 - *2023.08*: &nbsp;🎉 One paper is accepted by CIKM 2023.
 - *2023.06*: Our [LLM4Rec survey]((https://arxiv.org/abs/2305.19860)) has been released. It is the first comprehensive and up-to-date review specifically dedicated to generative LLMs for recommender systems.
 
@@ -63,5 +64,6 @@ I am Zhaopeng Qiu (邱昭鹏), a Senior Researcher in Career Science Lab of BOSS
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Work Experience
+- *2023.09 - present*, **NVIDIA**, Senior Deep Learning Solutions Architect @ AI/ML specialist team.
 - *2023.04 - 2023.08*, **BOSS Zhipin**, Senior Researcher @ Career Science Lab.
 - *2018.07 - 2023.04*, **Tencent**, Senior Researcher @ [Jarvis Lab](https://jarvislab.tencent.com/).

@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhaopeng Qiu (邱昭鹏)"
-description              : "Senior Researcher in CSL. Focusing on NLP, recommender system and LLM ..."
+description              : "Senior Deep Learning Solutions Architect in NVIDIA. Focusing on NLP, recommender system and LLM ..."
 repository               : "zpqiu/zpqiu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhaopeng Qiu (邱昭鹏)"
   avatar           : "images/profile_1_1.png"
-  bio              : "CSL"
+  bio              : "NVIDIA"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
