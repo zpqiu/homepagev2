@@ -23,6 +23,7 @@ I am Zhaopeng Qiu (邱昭鹏), a Senior Deep Learning Solutions Architect in NVI
 
 
 # 🔥 News
+- *2023.12*: &nbsp;🎉 Two papers are accepted by AAAI 2024.
 - *2023.09*: Join NVIDIA.
 - *2023.08*: &nbsp;🎉 One paper is accepted by CIKM 2023.
 - *2023.06*: Our [LLM4Rec survey]((https://arxiv.org/abs/2305.19860)) has been released. It is the first comprehensive and up-to-date review specifically dedicated to generative LLMs for recommender systems.
@@ -31,6 +32,8 @@ I am Zhaopeng Qiu (邱昭鹏), a Senior Deep Learning Solutions Architect in NVI
 
 > *\* → Equal contribution; <span class="underlined">The intern under my supervision</span>*
 
+- ``AAAI 2024`` [A Cross-View Hierarchical Graph Learning Hypernetwork for Skill Demand-Supply Joint Prediction](/), <span class="underlined">Wenshuo Zhao</span>, **Zhaopeng Qiu**, <span class="underlined">Likang Wu</span>, Zhuoning Guo, <span class="underlined">Zhi Zheng</span>, Hengshu Zhu, Hao Liu
+- ``AAAI 2024`` [Exploring Large Language Model for Graph Data Understanding in Online Job Recommendations](https://arxiv.org/pdf/2307.05722), <span class="underlined">Likang Wu</span>, **Zhaopeng Qiu**, <span class="underlined">Zhi Zheng</span>, Hengshu Zhu, Enhong Chen
 - ``CIKM 2023`` [REST: Drug-Drug Interaction Prediction via Reinforced Student-Teacher Curriculum Learning](/), <span class="underlined">Xinhang Li</span>, **Zhaopeng Qiu**, Xiangyu Zhao, Yong Zhang, Chunxiao Xing, Xian Wu
 - ``SIGIR 2023`` [Distributionally Robust Sequential Recommnedation](/), Rui Zhou, Xian Wu, **Zhaopeng Qiu**, Yefeng Zheng and Xu Chen
 - ``TOIS`` [Conditional Cross-Platform User Engagement Prediction](https://dl.acm.org/doi/pdf/10.1145/3589226), <span class="underlined">Xinhang Li</span>, **Zhaopeng Qiu**, Jiacheng Jiang, Yong Zhang, Chunxiao Xing and Xian Wu
@@ -47,7 +50,6 @@ I am Zhaopeng Qiu (邱昭鹏), a Senior Deep Learning Solutions Architect in NVI
 - ``TMC 2018`` [HyTasker: Hybrid Task Allocation in Mobile Crowd Sensing](/), Jiangtao Wang, Feng Wang, Yasha Wang, Leye Wang, **Zhaopeng Qiu**, Daqing Zhang, Bin Guo, Q. Lv
 
 ## Pre-Prints
-- [Exploring Large Language Model for Graph Data Understanding in Online Job Recommendations](https://arxiv.org/pdf/2307.05722), <span class="underlined">Likang Wu</span>, **Zhaopeng Qiu**, <span class="underlined">Zhi Zheng</span>, Hengshu Zhu, Enhong Chen
 - [Generative Job Recommendations with Large Language Model](https://arxiv.org/pdf/2307.02157), <span class="underlined">Zhi Zheng</span>\*, **Zhaopeng Qiu\***, Xiao Hu, <span class="underlined">Likang Wu</span>, Hengshu Zhu, Hui Xiong
 - [A Survey on Large Language Models for Recommendation](https://arxiv.org/abs/2305.19860), <span class="underlined">Likang Wu</span>\*, <span class="underlined">Zhi Zheng</span>\*, **Zhaopeng Qiu\***, Hao Wang, Hongchao Gu, Tingjia Shen, Chuan Qin, Chen Zhu, Hengshu Zhu, Qi Liu, Hui Xiong, Enhong Chen
 
