@@ -32,6 +32,7 @@ I am Zhaopeng Qiu (邱昭鹏), a Senior Deep Learning Solutions Architect in NVI
 # 📝 Publications 
 
 > *\* → Equal contribution; <span class="underlined">The intern under my supervision</span>*
+
 - ``WWW 2024`` [Harnessing Large Language Models for Text-Rich Sequential Recommendation](/), Zhi Zheng, Wen Shuo Chao, **Zhaopeng Qiu**, Hengshu Zhu, Hui Xiong
 - ``WWW 2024`` [Causally Debiased Time-aware Recommendation](/), Lei Wang, Chen Ma, Xian Wu, **Zhaopeng Qiu**, Yefeng Zheng, Xu Chen
 - ``AAAI 2024`` [A Cross-View Hierarchical Graph Learning Hypernetwork for Skill Demand-Supply Joint Prediction](/), <span class="underlined">Wenshuo Zhao</span>, **Zhaopeng Qiu**, <span class="underlined">Likang Wu</span>, Zhuoning Guo, <span class="underlined">Zhi Zheng</span>, Hengshu Zhu, Hao Liu
