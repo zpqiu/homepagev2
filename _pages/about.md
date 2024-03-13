@@ -23,6 +23,7 @@ I am Zhaopeng Qiu (邱昭鹏), a Senior Deep Learning Solutions Architect in NVI
 
 
 # 🔥 News
+- *2024.03*: &nbsp;🎉 One paper are accepted by TOIS.
 - *2024.01*: &nbsp;🎉 Three papers are accepted by WWW 2024.
 - *2023.12*: &nbsp;🎉 Two papers are accepted by AAAI 2024.
 - *2023.09*: Join NVIDIA.
@@ -33,6 +34,7 @@ I am Zhaopeng Qiu (邱昭鹏), a Senior Deep Learning Solutions Architect in NVI
 
 > *\* → Equal contribution; <span class="underlined">The intern under my supervision</span>*
 
+- ``TOIS`` [Distributional Fairness-aware Recommendation](/), Hao Yang, Xian Wu, **Zhaopeng Qiu**, Yefeng Zheng, Xu Chen
 - ``WWW 2024`` [Harnessing Large Language Models for Text-Rich Sequential Recommendation](/), Zhi Zheng, Wen Shuo Chao, **Zhaopeng Qiu**, Hengshu Zhu, Hui Xiong
 - ``WWW 2024`` [Causally Debiased Time-aware Recommendation](/), Lei Wang, Chen Ma, Xian Wu, **Zhaopeng Qiu**, Yefeng Zheng, Xu Chen
 - ``WWW 2024`` [GraphLeak: Patient Record Leakage through Gradients with Knowledge Graph	](/), Xi Zhang, Weifan Guan, Jiahao Lu, **Zhaopeng Qiu**, Jian Cheng, Xian Wu and Yefeng Zheng
